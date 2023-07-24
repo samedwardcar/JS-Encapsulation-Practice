@@ -2,7 +2,7 @@
   "cart": [
     {
       "id": 1,
-      "name": "Avery's Sandwich",
+      "name": "Sam's Sandwich",
       "bread": "Sourdough",
       "ingredients": [
         "Cheddar Cheese",
@@ -11,6 +11,65 @@
         "Bacon",
         "Lettuce",
         "Tomatoes"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jasper's Sandwich",
+      "bread": "White",
+      "ingredients": [
+        "Ham",
+        "Turkey",
+        "Bacon",
+        "Lettuce",
+        "Tomatoes",
+        "Cheddar Cheese",
+        "Parmesan Cheese",
+        "Oil & Vinegar",
+        "Salt",
+        "Pepper"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Mom's Sammich",
+      "bread": "Wheat",
+      "ingredients": [
+        "Turkey",
+        "Lettuce",
+        "Onions",
+        "American Cheese*",
+        "Mayo"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Sam's Sandwich",
+      "bread": "Sourdough",
+      "ingredients": [
+        "Cheddar Cheese",
+        "Mayo",
+        "Ham",
+        "Bacon",
+        "Lettuce",
+        "Tomatoes"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Jasper's Sandwich",
+      "bread": "White",
+      "ingredients": [
+        "Ham",
+        "Turkey",
+        "Bacon",
+        "Lettuce",
+        "Tomatoes",
+        "Cheddar Cheese",
+        "Parmesan Cheese",
+        "Oil & Vinegar",
+        "Salt",
+        "Pepper"
       ]
     }
   ],
